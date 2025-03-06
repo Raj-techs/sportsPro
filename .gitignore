@@ -16,3 +16,6 @@ logs/
 # Database files
 *.sqlite
 *.sqlite-journal
+
+
+./server.js
